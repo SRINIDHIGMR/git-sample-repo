@@ -56,6 +56,45 @@ git push origin master                                        -> Push to master 
 
 
 
+                PrivateBranch1---------------------
+                     |                                  |
+                     |                                  |  
+                     |                                  |
+-------------------Master--------Release--------Master---------------------Master---------Release-------------Master-------------- 
+                     |                                                           |
+                     |                                                           |Pull and then merge
+                 PrivateBranch2---------------------------------------------------   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
