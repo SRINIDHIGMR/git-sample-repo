@@ -16,7 +16,6 @@ git remote add origin <Github Repository URL>                 -> Establish conne
 git push origin master                                        -> Push to master branch
 
 -----------------------------------------------------------------------------------------------------------------------
-==
 
 Scenario 1:
 First Release -> Done
@@ -41,13 +40,5 @@ Person B -> Pull from master to private branch, merge code to master
 Scenario 3:
 1 Person -> Two different features
 Work on different branches
-
-
-
-
-
-
-
-
 
 
